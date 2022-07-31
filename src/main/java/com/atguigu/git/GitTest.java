@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("git@github.com:Liu-database/git-test.git");
+        System.out.println("new1 test");
     }
 }
